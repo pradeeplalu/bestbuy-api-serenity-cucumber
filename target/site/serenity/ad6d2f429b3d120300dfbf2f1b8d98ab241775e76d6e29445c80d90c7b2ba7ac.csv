@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Services CRUD test","This will create a New Service","SUCCESS","2022-06-07T22:25:45.036+01:00[Europe/London]","0.0","0.33"
+"Services CRUD test","Verify if the Product was added to the application","SUCCESS","2022-06-07T22:25:45.364+01:00[Europe/London]","0.0","0.2"
+"Services CRUD test","Update the product information","SUCCESS","2022-06-07T22:25:45.567+01:00[Europe/London]","0.0","0.28"
+"Services CRUD test","Delete the product by ID","SUCCESS","2022-06-07T22:25:45.848+01:00[Europe/London]","0.0","0.39"

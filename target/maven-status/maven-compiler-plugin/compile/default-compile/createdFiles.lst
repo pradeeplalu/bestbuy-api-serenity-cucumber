@@ -1,0 +1,12 @@
+ui\swagger\utils\TestUtils.class
+ui\swagger\categoryinfo\CategoriesSteps.class
+ui\swagger\constants\EndPoints.class
+ui\swagger\model\StorePojo.class
+ui\swagger\utils\PropertyReader.class
+ui\swagger\model\ProductPojo.class
+ui\swagger\constants\Path.class
+ui\swagger\model\ServicesPojo.class
+ui\swagger\serviceinfo\ServicesSteps.class
+ui\swagger\steps\ProductsSteps.class
+ui\swagger\storesinfo\StoreSteps.class
+ui\swagger\model\CategoriesPojo.class

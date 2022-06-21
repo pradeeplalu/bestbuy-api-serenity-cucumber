@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Stores CURD test","This will create a new store","SUCCESS","2022-06-07T22:25:46.380+01:00[Europe/London]","0.0","0.25"
+"Stores CURD test","Verify if the Store was added to the application","SUCCESS","2022-06-07T22:25:46.645+01:00[Europe/London]","0.0","0.17"
+"Stores CURD test","Update the store information","SUCCESS","2022-06-07T22:25:46.817+01:00[Europe/London]","0.0","0.3"
+"Stores CURD test","Delete the product by ID","SUCCESS","2022-06-07T22:25:47.114+01:00[Europe/London]","0.0","0.27"
